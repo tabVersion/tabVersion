@@ -7,7 +7,8 @@ A developer. A dreamer.
 ----
 
 * 👯 ~working on [NNI](https://github.com/microsoft/nni) @microsoft~
-* 🌱 learning ~NAS(Neural Architecture Search) and~ Recommendation System @bytedance
+* 🌱 learning ~NAS(Neural Architecture Search) and~ Recommend System & Pre-train models @bytedance
+* 
 
 <!--
 **tabVersion/tabVersion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
