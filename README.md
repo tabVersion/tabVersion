@@ -2,7 +2,15 @@
 
 [![tab's github stats](https://github-readme-stats.vercel.app/api?username=tabVersion)](https://github.com/tabVersion)
 
-A developer. A dreamer.
+JUST a developer!
+
+Undertake business: 
+* computer repair
+* reinstallation of systems
+
+----
+
+**My resume is available [here](https://github.com/tabVersion/resume/blob/master/resume.pdf)**
 
 ----
 
