@@ -14,8 +14,8 @@ Undertake business:
 
 ----
 
-* 👯 ~working on [NNI](https://github.com/microsoft/nni) @microsoft~
-* 🌱 learning ~NAS(Neural Architecture Search) and~ Recommend System & Pre-train models @bytedance
+* 👯 former developer of [NNI](https://github.com/microsoft/nni) @microsoft
+* ⚡ CRUD @bytedance
 
 <!--
 **tabVersion/tabVersion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
